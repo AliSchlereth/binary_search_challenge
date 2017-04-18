@@ -48,7 +48,6 @@ result4 = search.is_present?(1)
 result5 = search.is_present?(4)
 result6 = search.is_present?(9)
 
-
 puts result1
 puts result2
 puts result3
